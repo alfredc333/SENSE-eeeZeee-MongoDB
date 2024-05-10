@@ -1,0 +1,16 @@
+
+{
+  "Timestamp": {
+    "$date": "2024-01-01T09:44:44.243Z"
+  },
+  "metadata": {
+    "sensorId": 31333,
+    "type": "temp, hum, ap, co2"
+  },
+  "measurements": {
+    "Temperature": 21,
+    "Humidity": 52,
+    "AirPressure": 1234,
+    "CO2level": 888
+  }
+}
