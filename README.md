@@ -6,6 +6,8 @@
 
 <h4>CO2. Temperature. Humidity. Air Pressure.</h4>
 
+<h4>DB schema in sensorMongoDB.json</h4>
+
 <h3>Sensors:</h3>
 
 - BME280 - I2C
